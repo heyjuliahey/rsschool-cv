@@ -2,8 +2,11 @@
 
 ## Contact: 
 **Phone:** +375333205782
+
 **E-mail:** yuliaihnatovich@gmail.com
+
 **Telegram:** @heyjsa
+
 **RS School Discord name:** yuui(@hey_julia_hey)
 
 ## About me:
@@ -22,7 +25,7 @@ IDE: VS Code, Eclipse, IntelliJ IDEA
 
 ## Code examples
 
-BFS and binary heap implementation Java
+BFS implementation Java
 
 ```
    static void bfs(ArrayDeque<Integer> q, int n, int[][] matrix, int[] visited)
@@ -42,7 +45,7 @@ BFS and binary heap implementation Java
         }
     }
 ```
-
+Binary heap implementation Java
 ```
 public class BinaryHeap {
     public static void main(String[] args) {
@@ -84,6 +87,8 @@ W3Schools Online Web Tutorials, Wes Bos (wesbos.com), freeCodeCamp.
 
 ## Languages
 Advanced English level, participated in competitions at school and have practice with native speakers as well
+
 Native Belarusian
+
 Russian
 
