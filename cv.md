@@ -89,7 +89,6 @@ I'm a third-year student at the faculty of Applied Maths and Computer Science in
 Studied algorithms, collections, data structures, threads, regular expressions, software design patterns in C++, Java.
 
 Self-taught in HTML, CSS and JavaScript by reading books (Head First JavaScript Programming, Coding with JavaScript for dummies) and taking online courses such as
-
 W3Schools Online Web Tutorials, Wes Bos (wesbos.com), freeCodeCamp.
 
 ## Languages
