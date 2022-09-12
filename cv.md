@@ -17,10 +17,15 @@ I don't have any job experience yet, that's why I'm curious and passionate about
 
 ## Skills:
 Knowledge of fundamentals in C++, Java
+
 HTML5
+
 CSS3
+
 JavaScript Basics
+
 Algorithmic skills
+
 IDE: VS Code, Eclipse, IntelliJ IDEA
 
 ## Code examples
@@ -86,9 +91,6 @@ Self-taught in HTML, CSS and JavaScript by reading books (Head First JavaScript 
 W3Schools Online Web Tutorials, Wes Bos (wesbos.com), freeCodeCamp.
 
 ## Languages
-Advanced English level, participated in competitions at school and have practice with native speakers as well
-
-Native Belarusian
-
-Russian
-
+- Advanced English level, participated in competitions at school and have practice with native speakers as well
+- Native Belarusian
+- Russian
