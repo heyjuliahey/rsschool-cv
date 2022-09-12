@@ -1,6 +1,6 @@
 # Yulia Ignatovich
 
-## Contact: 
+## Contact
 **Phone:** +375333205782
 
 **E-mail:** yuliaihnatovich@gmail.com
@@ -9,7 +9,7 @@
 
 **RS School Discord name:** yuui(@hey_julia_hey)
 
-## About me:
+## About me
 Active and patient listener. 
 
 I always try different and creative approaches to solving problems. 
@@ -18,7 +18,7 @@ I'm organized and I like managing my time efficiently by using a planner and mak
 
 I don't have any job experience yet, that's why I'm curious and passionate about learning new things and improving my skills everyday.
 
-## Skills:
+## Skills
 - C++
 - Java
 - HTML5
