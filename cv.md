@@ -11,22 +11,21 @@
 
 ## About me:
 Active and patient listener. 
+
 I always try different and creative approaches to solving problems. 
+
 I'm organized and I like managing my time efficiently by using a planner and making a schedule for the upcoming day.
+
 I don't have any job experience yet, that's why I'm curious and passionate about learning new things and improving my skills everyday.
 
 ## Skills:
-Knowledge of fundamentals in C++, Java
-
-HTML5
-
-CSS3
-
-JavaScript Basics
-
-Algorithmic skills
-
-IDE: VS Code, Eclipse, IntelliJ IDEA
+- C++
+- Java
+- HTML5
+- CSS3
+- JavaScript Basics
+- Algorithmic skills
+- IDE: VS Code, Eclipse, IntelliJ IDEA
 
 ## Code examples
 
@@ -86,8 +85,11 @@ public class BinaryHeap {
 
 ## Education
 I'm a third-year student at the faculty of Applied Maths and Computer Science in the Belarusian State University.
+
 Studied algorithms, collections, data structures, threads, regular expressions, software design patterns in C++, Java.
+
 Self-taught in HTML, CSS and JavaScript by reading books (Head First JavaScript Programming, Coding with JavaScript for dummies) and taking online courses such as
+
 W3Schools Online Web Tutorials, Wes Bos (wesbos.com), freeCodeCamp.
 
 ## Languages
